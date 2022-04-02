@@ -8,3 +8,5 @@ Enter the virtual environment
 
 1. Download Django (must be above 4.0!)
 2. Download the Djangorestframework
+
+![image](https://user-images.githubusercontent.com/88030420/161393805-6fee57c8-56e2-4bda-b8c1-56cf9c2f0dbb.png)
