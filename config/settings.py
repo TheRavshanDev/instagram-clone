@@ -128,3 +128,5 @@ STATIC_URL = '/static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 ACC = 'member.Account'
+MEDIA = 'post.Media'
+ARCHIVED_POSTS = 'post.Post'
